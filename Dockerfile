@@ -1,2 +1,2 @@
 FROM nginx:latest
-RUN mkdir /testing-successful
+RUN mkdir /testing-successful-again
